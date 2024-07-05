@@ -5,6 +5,8 @@
 - [Advanced Schema Design Patterns](https://learn.mongodb.com/courses/advanced-schema-design-patterns?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%5D)
 - [Building with Patterns: A Summary](https://www.mongodb.com/blog/post/building-with-patterns-a-summary)
 
+- https://dzone.com/refcardz/mongodb
+
 ## Connect via `mongosh`
 
 - [mongosh documentation](https://docs.mongodb.com/mongodb-shell/connect?_ga=2.168567529.938141539.1719919180-1607440165.1708700389#std-label-mdb-shell-connect)
